@@ -125,10 +125,35 @@ nav .box .btn a:hover{
 
 .banner .box .left{
     width: 50%;
-    
-    
+    font-size: 30px;
     
 }
+
+
+
+.banner .box .left h1{
+    display: inline-block;
+    color: white;
+    background-color: rgba(2, 148, 121, 0.388);
+    padding: 5px 10px;
+    width: 400px;
+    margin-top: 100px;
+    margin-left: 30PX;
+    
+}
+
+.banner .box .left P{
+    margin-left: 30px;
+    color: white;
+    background-color: rgba(1, 16, 14, 0.388);
+    margin-top: 5px;
+    width: 500px;
+    border-radius: 5px;
+    padding: 5px 10px;
+    
+}
+
+
 
 .banner .box .right{
     width: 50%;
@@ -153,6 +178,7 @@ nav .box .btn a:hover{
     color: white;
     outline: none;
     border: 1px solid white;
+    font-size: 20px;
 }
 
 
